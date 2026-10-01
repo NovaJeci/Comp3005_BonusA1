@@ -231,7 +231,8 @@ and is preceded by consuming the `not` token.
 - [2]GeeksforGeeks, “Operator Grammar and Precedence Parser,” GeeksforGeeks, May 03, 2018. https://www.geeksforgeeks.org/compiler-design/operator-grammar-and-precedence-parser-in-toc/ (accessed Sept. 23, 2026).
 - [3]GeeksforGeeks, “Ambiguous Grammar,” GeeksforGeeks. Accessed: Sep. 23, 2026. [Online]. Available: https://www.geeksforgeeks.org/compiler-design/ambiguous-grammar/
 - [4]M. Bednarski, “Operator Priority and Associativity in EBNF Grammar,” Medium. Accessed: Sep. 30, 2026. [Online]. Available: https://medium.com/@mbednarski/operator-priority-and-associativity-in-ebnf-grammar-3a9f23dd9daf
-- [5]Nystrom, Crafting Interpreters - scanning and parsing chapters
+- [5]Nystrom, “Parsing Expressions · Crafting Interpreters,” craftinginterpreters.com. Accessed: Sep. 30, 2026. [Online]. Available: https://craftinginterpreters.com/parsing-expressions.html
 - [6]Wikipedia: EBNF, recursive descent parsing, maximal munch, operator-precedence parsing
 - [7]GeeksforGeeks, “Operator Precedence and Associativity in Programming,” GeeksforGeeks. Accessed: Sep. 23, 2026. [Online]. Available: https://www.geeksforgeeks.org/c/operator-precedence-and-associativity-in-programming/
 - [8]GeeksforGeeks, “Introduction of Relational Algebra in DBMS,” GeeksforGeeks. Accessed: Sep. 30, 2026. [Online]. Available: https://www.geeksforgeeks.org/dbms/introduction-of-relational-algebra-in-dbms/
+- 
